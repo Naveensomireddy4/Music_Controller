@@ -1,0 +1,15 @@
+{
+  "presets": [
+    [
+      "@babel/preset-env",
+      {
+        "targets": {
+          "node": "10"
+        }
+      }
+    ],
+    "@babel/preset-react"
+  ],
+  /*for using async and await in js*/
+  "plugins": ["@babel/plugin-proposal-class-properties"]
+}
