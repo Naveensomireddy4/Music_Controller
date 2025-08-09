@@ -79,7 +79,4 @@ npm run build
 - Connect your Spotify account.
 - Control playback or vote to skip tracks.
 
----
 
-## 📜 License
-This project is licensed under the MIT License.
